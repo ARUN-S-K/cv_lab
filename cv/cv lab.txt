@@ -1,5 +1,5 @@
 Instruction
-•	Necessary file will be in the folder with the experiment number
+•	Necessary file will be in the folder with experiment number
 
 
 1)Implementation of Noise removal algorithms using OpenCV
