@@ -12,7 +12,7 @@ plt.subplot(121), plt.imshow(img)
 plt.subplot(122), plt.imshow(dst)
 plt.show()
 
-2)Implementation of Object detection based on Edge detection algorithms on any application using OpenCV
+*2)Implementation of Object detection based on Edge detection algorithms on any application using OpenCV*
 import cv2
 import numpy as np
 # Read the image
